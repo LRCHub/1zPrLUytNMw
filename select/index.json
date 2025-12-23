@@ -1,0 +1,48 @@
+{
+  "version": 1,
+  "base_track": "ひとりぼっち",
+  "base_artist": "神聖かまってちゃん",
+  "createdAt": "2025-12-23T22:34:10.989876Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ようこそ！ひとりぼっち",
+      "artist": "Pearl Brothers",
+      "has_synced": true,
+      "path": "select/01_ようこそ!ひとりぼっち_Pearl_Brothers.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "ようこそ!ひとりぼっち",
+      "artist": "パール兄弟",
+      "has_synced": true,
+      "path": "select/02_ようこそ!ひとりぼっち_パール兄弟.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "ようこそ!ひとりぼっち",
+      "artist": "Pearl Brothers",
+      "has_synced": true,
+      "path": "select/03_ようこそ!ひとりぼっち_Pearl_Brothers.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "ようこそ！ひとりぼっち - Yokoso! Hitoribocchi",
+      "artist": "Pearl Brothers",
+      "has_synced": true,
+      "path": "select/04_ようこそ!ひとりぼっち_-_Yokoso!_Hitoribocchi_Pearl_Brothers.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ひとりぼっち",
+      "artist": "神聖かまってちゃん",
+      "has_synced": false,
+      "path": "select/pl_01_ひとりぼっち_神聖かまってちゃん.txt"
+    }
+  ]
+}
